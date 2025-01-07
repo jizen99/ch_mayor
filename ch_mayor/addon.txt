@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Mayor"
+	"version"		"1.0.4"
+	"up_date"		"2023"
+	"author_name"	"Crap-Head"
+	"author_url"	"https://www.gmodstore.com/users/crap-head"
+	"info"		"This advanced mayor system for DarkRP includes all the features you need to run your city as mayor!"
+}
